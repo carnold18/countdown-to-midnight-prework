@@ -7,3 +7,7 @@ def countdown(int)
   int -= 1
 end
 end
+
+def countdown_to_sleep(int)
+  
+end
